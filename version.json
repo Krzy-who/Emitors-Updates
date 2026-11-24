@@ -1,18 +1,15 @@
 {
-  "versionName": "1.1.0",
-  "versionCode": 20,
-  "build": "CBZK-020",
+  "versionName": "1.2.0",
+  "versionCode": 21,
+  "build": "CBZK-021",
   "releaseDate": "2026-11-24",
-  "apkUrl": "https://github.com/Krzy-who/Emitors-Updates/releases/download/v1.1.0/Emitors_by_Krzy-Who.apk",
+  "apkUrl": "https://github.com/Krzy-who/Emitors-Updates/releases/download/v1.2.0/Emitors_by_Krzy-Who.apk",
   "changelog": [
-    "Zmniejszenie nagłówka ekranu głównego.",
-    "Kompaktowy dolny pasek nawigacyjny z zachowaniem pól dotykowych.",
-    "Automatyczne sprawdzanie aktualizacji przy uruchomieniu.",
-    "Ręczne sprawdzanie aktualizacji w Ustawieniach.",
-    "Komunikat o nowej wersji z listą zmian.",
-    "Pobieranie i weryfikacja APK przed instalacją potwierdzaną przez Androida.",
-    "Brak internetu nie blokuje działania aplikacji.",
-    "Zachowanie formatu i mechanizmów zapisu danych."
+    "Edycja nazwy użytkownika w Ustawieniach.",
+    "Zapisywanie nowej nazwy i aktualizacja powitania na ekranie głównym.",
+    "Możliwość anulowania edycji i blokada zapisu pustej nazwy.",
+    "Numer zainstalowanej wersji i kompilacji w kafelku aktualizacji.",
+    "Zachowanie istniejących danych pomiarowych i ustawień podczas aktualizacji."
   ],
   "mandatory": false
 }
